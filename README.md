@@ -56,8 +56,6 @@ python decrypt.py --image encrypted.png
 - Extending to **video and audio steganography**.
 - Developing a **GUI-based tool** for user-friendly interaction.
 
-## 📜 License
-This project is **open-source** and free to use under the **MIT License**.
 
 ## 📎 GitHub Repository
 🔗 [GitHub Repo](https://github.com/ABHISHEKJULA07/Secure-Data-Hiding-Steganography/)
