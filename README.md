@@ -60,7 +60,7 @@ python decrypt.py --image encrypted.png
 This project is **open-source** and free to use under the **MIT License**.
 
 ## 📎 GitHub Repository
-🔗 [GitHub Repo](https://github.com/yourusername/Secure-Data-Hiding-Steganography)
+🔗 [GitHub Repo](https://github.com/ABHISHEKJULA07/Secure-Data-Hiding-Steganography/)
 
 ---
 💡 **Contributions are welcome!** Feel free to fork, raise issues, and submit PRs. 🚀
