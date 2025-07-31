@@ -57,9 +57,3 @@ python decrypt.py --image encrypted.png
 - Developing a **GUI-based tool** for user-friendly interaction.
 
 
-## 📎 GitHub Repository
-🔗 [GitHub Repo](https://github.com/ABHISHEKJULA07/Secure-Data-Hiding-Steganography/)
-
----
-💡 **Contributions are welcome!** Feel free to fork, raise issues, and submit PRs. 🚀
-
