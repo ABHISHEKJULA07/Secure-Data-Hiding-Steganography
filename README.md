@@ -57,7 +57,7 @@ python decrypt.py --image encrypted.png
 - Extending to **video and audio steganography**.
 - Developing a **GUI-based tool** for user-friendly interaction.
 
-## 📌 Developed By
+## 👨‍💻 Developed By
 
 **Abhishek Jula** 
 
@@ -65,3 +65,4 @@ python decrypt.py --image encrypted.png
 💻 [GitHub](https://github.com/ABHISHEKJULA07)  
 🌐 [Portfolio](https://abhipinku66.wixsite.com/07112000)  
 📧 abhishekjula018@gmail.com
+
