@@ -51,7 +51,13 @@ python decrypt.py --image encrypted.png
 - **Digital Watermarking**: Embedding ownership details in images.
 - **Forensics**: Hiding sensitive information in media files.
 
-- ## 👨‍💻 Developed By
+
+## 🔮 Future Scope
+- Implementing **AES encryption** before embedding data.
+- Extending to **video and audio steganography**.
+- Developing a **GUI-based tool** for user-friendly interaction.
+
+## 📌 Developed By
 
 **Abhishek Jula** 
 
@@ -59,10 +65,3 @@ python decrypt.py --image encrypted.png
 💻 [GitHub](https://github.com/ABHISHEKJULA07)  
 🌐 [Portfolio](https://abhipinku66.wixsite.com/07112000)  
 📧 abhishekjula018@gmail.com
-
-## 🔮 Future Scope
-- Implementing **AES encryption** before embedding data.
-- Extending to **video and audio steganography**.
-- Developing a **GUI-based tool** for user-friendly interaction.
-
-
