@@ -50,9 +50,10 @@ python decrypt.py --image encrypted.png
 - **Cybersecurity**: Secure messaging and confidential data transmission.
 - **Digital Watermarking**: Embedding ownership details in images.
 - **Forensics**: Hiding sensitive information in media files.
+
 - ## 👨‍💻 Developed By
 
-**Abhishek Jula**, Dhruv Uniyal, Tarun Sri Sai Vadlapatla, John Nikhil Bonam, Ms. A. Madhavi  
+**Abhishek Jula** 
 🔗 [LinkedIn](https://www.linkedin.com/in/abhi-jula0711)  
 💻 [GitHub](https://github.com/ABHISHEKJULA07)  
 🌐 [Portfolio](https://abhipinku66.wixsite.com/07112000)  
